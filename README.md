@@ -42,10 +42,9 @@ This smart contract acts as the backend for a decentralized music ecosystem wher
 
 ---
 
-## 🔗 Deployed Smart Contract Link
+## 🔗 Deployed  Contract id
+https://stellar.expert/explorer/testnet/contract/CAK6LQKTI6IC3YTC5R2GEUGHQP6KMVN7AZXEEYZTGJCRSYKBFEDM6OGW
 
-> Add your deployed contract link here after deployment  
-> Example: https://stellar.expert/explorer/testnet/contract/XXXXXXXX
 
 ---
 
